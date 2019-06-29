@@ -57,4 +57,7 @@ def present_data():
         fig1.set_size_inches(15, 10)
     plt.show()
 
-present_data()
+
+if __name__ == "__main__":
+    present_data()
+
