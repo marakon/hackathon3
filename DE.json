@@ -1,0 +1,54 @@
+[{
+    "id": 2950159,
+    "name": "Berlin",
+    "country": "DE",
+    "coord": {
+      "lon": 13.41053,
+      "lat": 52.524368
+    }
+},
+{
+    "id": 2911298,
+    "name": "Hamburg",
+    "country": "DE",
+    "coord": {
+      "lon": 10,
+      "lat": 53.549999
+    }
+},
+{
+    "id": 2886242,
+    "name": "Koeln",
+    "country": "DE",
+    "coord": {
+      "lon": 6.95,
+      "lat": 50.933331
+    }
+},
+{
+    "id": 2925533,
+    "name": "Frankfurt am Main",
+    "country": "DE",
+    "coord": {
+      "lon": 8.68333,
+      "lat": 50.116669
+    }
+},
+{
+    "id": 2867714,
+    "name": "Muenchen",
+    "country": "DE",
+    "coord": {
+      "lon": 11.57549,
+      "lat": 48.137428
+    }
+},
+{
+    "id": 2852458,
+    "name": "Potsdam",
+    "country": "DE",
+    "coord": {
+      "lon": 13.06566,
+      "lat": 52.398861
+    }
+}]

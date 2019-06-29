@@ -1,0 +1,64 @@
+[
+{
+    "id": 4927854,
+    "name": "Warsaw",
+    "country": "US",
+    "coord": {
+      "lon": -85.85305,
+      "lat": 41.238098
+    }
+},
+{
+    "id": 3081368,
+    "name": "Wroclaw",
+    "country": "PL",
+    "coord": {
+      "lon": 17.033331,
+      "lat": 51.099998
+    }
+},
+{
+    "id": 3088171,
+    "name": "Poznan",
+    "country": "PL",
+    "coord": {
+      "lon": 16.92993,
+      "lat": 52.406921
+    }
+},
+{
+    "id": 3099434,
+    "name": "Gdansk",
+    "country": "PL",
+    "coord": {
+      "lon": 18.64637,
+      "lat": 54.352051
+    }
+},
+{
+    "id": 3094802,
+    "name": "Krakow",
+    "country": "PL",
+    "coord": {
+      "lon": 19.91667,
+      "lat": 50.083328
+    }
+},
+{
+    "id": 3083829,
+    "name": "Szczecin",
+    "country": "PL",
+    "coord": {
+      "lon": 14.55302,
+      "lat": 53.42894
+    }
+},
+{
+    "id": 759734,
+    "name": "Rzeszow",
+    "country": "PL",
+    "coord": {
+      "lon": 21.99901,
+      "lat": 50.041321
+    }
+}]
