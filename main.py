@@ -23,7 +23,7 @@ def read_json():
                 my_data = json.load(raw_data)
                 break
         except FileNotFoundError:
-            print('Country not available. Try other.')
+            print('Country not available. Try one of these UK/PL/DE.')
     return my_data
 
 def requester(id_list):
